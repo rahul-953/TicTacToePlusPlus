@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe++</string>
+    <string name="versus">"  V/S  "</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Rahul</string>
+<string name="Welcome">Welcome</string>
+</resources>

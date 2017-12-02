@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/nameP1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Player Details"
+                android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+        </TableRow>
+
+        <TableRow>
+
+            <EditText
+                android:id="@+id/inputP1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Enter P1 Name"
+                android:inputType="textPersonName"
+                android:maxLength="10"></EditText>
+        </TableRow>
+
+        <TableRow>
+
+            <EditText
+                android:id="@+id/inputP2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Enter P2 Name"
+                android:inputType="textPersonName"
+                android:maxLength="10"></EditText>
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/start"
+                android:text="START"></Button>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

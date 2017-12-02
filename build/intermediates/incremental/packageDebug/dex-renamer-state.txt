@@ -1,0 +1,7 @@
+#Sat Dec 02 10:51:35 IST 2017
+base.0=/home/rahul/git/TicTacToe/TicTacToe++2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38ecdcc24a435754064a2ae6c3da4ce11697de39
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/rahul/git/TicTacToe/TicTacToe++2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f681c77d69644d7d648f02d4de51025cc57a7fc/classes.dex
+base.1=/home/rahul/git/TicTacToe/TicTacToe++2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f681c77d69644d7d648f02d4de51025cc57a7fc
+file.0=/home/rahul/git/TicTacToe/TicTacToe++2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38ecdcc24a435754064a2ae6c3da4ce11697de39/classes.dex

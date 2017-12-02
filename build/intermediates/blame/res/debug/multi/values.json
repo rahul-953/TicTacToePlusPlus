@@ -1,0 +1,174 @@
+[
+    {
+        "outputFile": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 235,
+                        "endColumn": 39,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 48,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 45,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 45,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 42,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 42,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 44,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/home/rahul/Desktop/Final Tic Tac Toe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 44,
+                        "endOffset": 145
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/rahul/git/TicTacToe/TicTacToe++2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/rahul/git/TicTacToe/TicTacToe++2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 235,
+                        "endColumn": 39,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 48,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/rahul/git/TicTacToe/TicTacToe++2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 45,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/home/rahul/git/TicTacToe/TicTacToe++2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 42,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/home/rahul/git/TicTacToe/TicTacToe++2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 44,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/home/rahul/git/TicTacToe/TicTacToe++2/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]
